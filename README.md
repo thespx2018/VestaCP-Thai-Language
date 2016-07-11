@@ -2,7 +2,7 @@
 
 
 
- * Tranlaste By Sopanus Suradash
+ * translate By Sopanus Suradash
  * Copyright This File
  * อ้างอิงคำศัพท์บางอย่างโดย Line Dictionary
  * สงวนลิขสิทธิ์งานแปลทั้งหมด
