@@ -1,5 +1,5 @@
 # VestaCP-Thai-Language
-<?php
+
 
 
  * Tranlaste By Sopanus Suradash
