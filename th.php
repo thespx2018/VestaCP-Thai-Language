@@ -699,7 +699,7 @@ $LANG['th'] = array(
     'Browse, copy, edit, view, and retrieve all of your web domain files using fully featured File Manager.' => 'Browse, copy, edit, view, and retrieve all of your web domain files using fully featured File Manager.',
     'This is a commercial module, you would need to purchace license key to enable it.' => 'This is a commercial module, you would need to purchace license key to enable it.',
 
-    'Minutes' => 'Minutes',
+    'Minutes' => 'นาที',
     'Hourly' => 'Hourly',
     'Run Command' => 'Run Command',
     'every month' => 'every month',
