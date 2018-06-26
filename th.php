@@ -126,7 +126,7 @@ $LANG['th'] = array(
     'Editing Mail Domain'  => 'Editing Mail Domain',
     'Adding Mail Account'  => 'Adding Mail Account',
     'Editing Mail Account'  => 'Editing Mail Account',
-    'Adding database'  => 'Adding database',
+    'Adding database'  => 'เพิ่ม DB',
     'Editing Cron Job'  => 'Editing Cron Job',
     'Adding Cron Job'  => 'Adding Cron Job',
     'Editing Database'  => 'Editing Database',
@@ -699,7 +699,7 @@ $LANG['th'] = array(
     'Browse, copy, edit, view, and retrieve all of your web domain files using fully featured File Manager.' => 'Browse, copy, edit, view, and retrieve all of your web domain files using fully featured File Manager.',
     'This is a commercial module, you would need to purchace license key to enable it.' => 'This is a commercial module, you would need to purchace license key to enable it.',
 
-    'Minutes' => 'Minutes',
+    'Minutes' => 'นาที',
     'Hourly' => 'Hourly',
     'Run Command' => 'Run Command',
     'every month' => 'every month',
